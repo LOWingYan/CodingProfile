@@ -1,7 +1,7 @@
 # CodingProfile
 ### Manual
 1. LT-X [APP Prototype Project]
-2. Maze Game
+2. Maze Game [Computer Game Project]
 3. (continue)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Project 1 - LT-X [APP Prototype Project]
@@ -14,7 +14,9 @@ Create an application that allows users (students) to have a unified timetable a
 <img width="263" alt="image" src="https://github.com/LOWingYan/CodingProfile/assets/144763380/f6069c8a-37fa-435e-9c45-810fe1f51b70">
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Project 2 - Maze Game
+### Project 2 - Maze Game [Computer Game Project]
 Project Idea:
 Create a maze with more than 2 possible paths between Entry and Exit Point by modified DFS algorithm
+
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
