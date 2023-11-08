@@ -17,6 +17,7 @@ Create an application that allows users (students) to have a unified timetable a
 ### Project 2 - Maze Game [Computer Game Project]
 Project Idea:
 Create a maze with more than 2 possible paths between Entry and Exit Point by modified DFS algorithm
+!!! not yet release as it is a current working group project
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
